@@ -75,7 +75,7 @@ For Introduce with me and History with for study for kindergraden to current
 
     <h2>📞 Contact</h2>
     <p>Email: peafirst.tnpbrt@gmail.com<br>
-       Phone: +66-926145423</p>
+       Phone: 092-6145423</p>
   </div>
 
   <footer>
