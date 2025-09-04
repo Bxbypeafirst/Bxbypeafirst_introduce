@@ -53,12 +53,17 @@ For Introduce with me and History with for study for kindergraden to current
     <img src="profile.jpg" alt="Profile Picture">
     <h1>Hi, I'm Thinnaphat Boriraksatorn</h1>
     <p>Nickname: Bxbysmurf / BxbyPeafirst</p>
+    <p>Birthday: 17 January 2005</p>
+    <p>Age: 20 years old</p>
+    <p>Nationality: Thai</p>
+    <p>Hometown : rayong</p>
   </header>
 
   <div class="intro">
     <h2>👋 Introduction</h2>
-    <p>Hello! My name is Thinnaphat Boriraksatorn, a 20-year-old student who is passionate about 
-       <strong>Artificial Intelligence, Robotics, and Web Development</strong>. 
+    <p>My name is Thinnaphat Boriraksatorn
+      a 20-year-old I'm mechatronics engineer student </p>
+    <strong>Artificial Intelligence, Robotics, and Web Development</strong>. 
        I love coding, problem-solving, and creating projects that combine 
        <strong>engineering and creativity</strong>.</p>
     
