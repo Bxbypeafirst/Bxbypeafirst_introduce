@@ -61,13 +61,13 @@ For Introduce with me and History with for study for kindergraden to current
 
   <div class="intro">
     <h2>👋 Introduction</h2>
-    <p>My name is Thinnaphat Boriraksatorn </p>
+    <p>My name is Peafirst </p>
     <p>Birthday 17 Jan 2005</p>
     <p>Age 22 years old</p>
     <p>study 
     Faculty Industrial Technology College
     Major mechatronics engineer
-    King mongkut university of technology borth bangkok</p>
+    King mongkut university of technology north bangkok</p>
     <strong>Artificial Intelligence, Robotics, and Web Development</strong>. 
        I love coding, problem-solving, and creating projects that combine 
        <strong>engineering and creativity</strong>.</p>
