@@ -69,14 +69,24 @@
       • เขียนโปรแกรมและพัฒนา AI / Programming & AI Development <br>
       • หุ่นยนต์และระบบอัตโนมัติ / Robotics & Automation <br>
       • การพัฒนาเว็บและเกม / Web & Game Development <br>
-      • คณิตศาสตร์และฟิสิกส์เพื่อวิศวกรรม / Math & Physics for Engineering
+      • คณิตศาสตร์และฟิสิกส์เพื่อวิศวกรรม / Math & Physics for Engineering<br>
+      • กลศาสตร์สำหรับฟิสิกส์ วิศวกรรม เชิงหุ่นยนต์ และ ระบบคำนวณ / machanics for engineering with robotics and calculate system
     </p>
 
-    <h2>📞 ติดต่อ / Contact</h2>
+    <h2>📞 ติดต่อเฉพาะบุคคล / Contact person</h2>
     <p>
       Email: peafirst.tnpbrt@gmail.com | peafirstvegetable@gmail.com <br>
-      Phone: +66-926145423
-    </p>
+      Phone: +66-926145423<br>
+      Instragram: bxbysmurf07<br>
+      Id Line: ff.firstfang2830<br>
+      Facebook: Thinnaphat Borirakasatorn<br>   
+</p>
+    <h2>📞 ติดต่อเฉพาะเว็บไซต์ / Website contact </h2>
+  <p>
+   • my website: bxbypeafirst.co.th<br>
+   • My github:  bxbypeafirst<br>
+   • My google site: bxbypeafirst
+  </p>
   </div>
 
   <footer>
