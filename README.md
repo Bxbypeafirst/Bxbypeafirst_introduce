@@ -66,11 +66,11 @@
 
     <h2>🎯 ความสนใจ / Interests</h2>
     <p>
-      • เขียนโปรแกรมและพัฒนา AI / Programming & AI Development <br>
-      • หุ่นยนต์และระบบอัตโนมัติ / Robotics & Automation <br>
-      • การพัฒนาเว็บและเกม / Web & Game Development <br>
+      • เขียนโปรแกรมและพัฒนา AI / Programming & AI Developer <br>
+      • หุ่นยนต์และระบบอัตโนมัติ / Robotics & Automatics system <br>
+      • การพัฒนาเว็บและเกม / Web & Game Developer <br>
       • คณิตศาสตร์และฟิสิกส์เพื่อวิศวกรรม / Math & Physics for Engineering<br>
-      • กลศาสตร์สำหรับฟิสิกส์ วิศวกรรม เชิงหุ่นยนต์ และ ระบบคำนวณ / machanics for engineering with robotics and calculate system
+      • กลศาสตร์สำหรับฟิสิกส์ วิศวกรรม เชิงหุ่นยนต์ และ ระบบคำนวณ / machanics for engineering with robotics and computational system
     </p>
 
     <h2>📞 ติดต่อเฉพาะบุคคล / Contact person</h2>
@@ -81,11 +81,13 @@
       Id Line: ff.firstfang2830<br>
       Facebook: Thinnaphat Borirakasatorn<br>   
 </p>
-    <h2>📞 ติดต่อเฉพาะเว็บไซต์ / Website contact </h2>
+    <h2>📞 ติดต่อเฉพาะเว็บไซต์ / contact website </h2>
   <p>
    • my website: bxbypeafirst.co.th<br>
    • My github:  bxbypeafirst<br>
-   • My google site: bxbypeafirst
+   • My google site: bxbypeafirst<br>
+   • Coding with Arduino for Introduce< br>
+   • coding with Arduino for welcome my services 
   </p>
   </div>
 
