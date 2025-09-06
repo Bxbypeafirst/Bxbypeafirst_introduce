@@ -70,8 +70,10 @@
       • หุ่นยนต์และระบบอัตโนมัติ / Robotics & Automatics system <br>
       • การพัฒนาเว็บและเกม / Web & Game Developer <br>
       • คณิตศาสตร์และฟิสิกส์เพื่อวิศวกรรม / Math & Physics for Engineering<br>
-      • กลศาสตร์สำหรับฟิสิกส์ วิศวกรรม เชิงหุ่นยนต์ และ ระบบคำนวณ / machanics for engineering with robotics and computational system
-    </p>
+      • กลศาสตร์สำหรับฟิสิกส์ วิศวกรรม เชิงหุ่นยนต์ และ ระบบคำนวณ / machanics for engineering with robotics and computational system<br>
+      • การแนะนำตัวด้วยการเขียนโค้ดอาดูโน่ / Coding with Arduino for Introduce<br>
+      • การเขียนโค้ดยินดีต้อนรับด้วยการอู่ coding with Arduino for welcome my services 
+      </p>
 
     <h2>📞 ติดต่อเฉพาะบุคคล / Contact person</h2>
     <p>
@@ -86,8 +88,6 @@
    • my website: bxbypeafirst.co.th<br>
    • My github:  bxbypeafirst<br>
    • My google site: bxbypeafirst<br>
-   • Coding with Arduino for Introduce< br>
-   • coding with Arduino for welcome my services 
   </p>
   </div>
 
